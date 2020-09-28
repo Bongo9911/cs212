@@ -1,0 +1,23 @@
+Random
+----
+Color
+Length
+Turn
+
+Sliders
+-------
+Line count
+Rotation
+Size
+
+
+            int x2 = RNG.Next(20, 30);
+            int y2 = -RNG.Next(20, 30);
+            int x3 = y2 + x1;
+            int y3 = -x2 + y1;
+
+
+            int x2 = (int)(Math.Sin(45 + 90 * depth) / Math.Abs(Math.Sin(45 + (90 * depth)))) * RNG.Next(20, 30);
+            int y2 = (int)(Math.Cos(45 + 90 * depth) / Math.Abs(Math.Cos(45 + (90 * depth)))) * RNG.Next(20, 30);
+            int x3 = (int)(Math.Sin(45 + 90 * depth) / Math.Abs(Math.Sin(45 + (90 * depth)))) * y2 + x1;
+            int y3 = (int)(Math.Cos(45 + 90 * depth) / Math.Abs(Math.Cos(45 + (90 * depth)))) * x2 + y1;

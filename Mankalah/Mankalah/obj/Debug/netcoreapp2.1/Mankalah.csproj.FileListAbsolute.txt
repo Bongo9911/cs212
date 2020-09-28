@@ -1,0 +1,11 @@
+H:\CS212\Mankalah\Mankalah\bin\Debug\netcoreapp2.1\Mankalah.deps.json
+H:\CS212\Mankalah\Mankalah\bin\Debug\netcoreapp2.1\Mankalah.runtimeconfig.json
+H:\CS212\Mankalah\Mankalah\bin\Debug\netcoreapp2.1\Mankalah.runtimeconfig.dev.json
+H:\CS212\Mankalah\Mankalah\bin\Debug\netcoreapp2.1\Mankalah.dll
+H:\CS212\Mankalah\Mankalah\bin\Debug\netcoreapp2.1\Mankalah.pdb
+H:\CS212\Mankalah\Mankalah\obj\Debug\netcoreapp2.1\Mankalah.csprojAssemblyReference.cache
+H:\CS212\Mankalah\Mankalah\obj\Debug\netcoreapp2.1\Mankalah.csproj.CoreCompileInputs.cache
+H:\CS212\Mankalah\Mankalah\obj\Debug\netcoreapp2.1\Mankalah.AssemblyInfoInputs.cache
+H:\CS212\Mankalah\Mankalah\obj\Debug\netcoreapp2.1\Mankalah.AssemblyInfo.cs
+H:\CS212\Mankalah\Mankalah\obj\Debug\netcoreapp2.1\Mankalah.dll
+H:\CS212\Mankalah\Mankalah\obj\Debug\netcoreapp2.1\Mankalah.pdb
